@@ -1,0 +1,6 @@
+projectKey=natechynoweth_tornado-training
+serverUrl=https://sonarqube.synopticlabs.org
+serverVersion=8.8.0.42792
+dashboardUrl=https://sonarqube.synopticlabs.org/dashboard?id=natechynoweth_tornado-training
+ceTaskId=AXk4MZ6UGgVx9JttiUeC
+ceTaskUrl=https://sonarqube.synopticlabs.org/api/ce/task?id=AXk4MZ6UGgVx9JttiUeC
